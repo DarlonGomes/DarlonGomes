@@ -13,5 +13,5 @@
 
 - I worked as a full-time furniture maker for seven years;
 - In the last two years, I taught how to make furniture with raw wood;
-- I took some courses in welding, pottery , masonry and cooking.
+- I took some courses in welding, pottery, masonry and cooking.
 
