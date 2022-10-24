@@ -15,7 +15,7 @@
 - In the last two years, I taught how to make furniture with raw wood;
 - I took some courses in welding, pottery, masonry and cooking.
 
-:seedling: Learning ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) and ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+:seedling: Learning Vue.js and Ruby
 
 #
 
