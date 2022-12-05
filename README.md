@@ -15,7 +15,7 @@
 - In the last two years, I taught how to make furniture with raw wood;
 - I took some courses in welding, pottery, masonry and cooking.
 
-:seedling: Learning Tailwind and Electron
+:seedling: Learning Gatsby and Electron
 
 #### How to reach me
 <a href="https://www.linkedin.com/in/darlon-gomes-699b79230/" target="_blank" >![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
