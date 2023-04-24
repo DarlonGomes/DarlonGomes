@@ -5,7 +5,7 @@
 
 💻  I'm a Fullstack Developer with an extra affection for the Front-End .
 
-  - I've been working with Typescript, Electron, Node.js and React in my last projects;
+  - I've been working with Typescript, Nest.js and React in my last projects;
   - The project planning process is where I have the most fun.
   
 
